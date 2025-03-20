@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Road to Nix",
+    "description": "Road to Nix is a guide meant to take you from the very basics of Nix to being an advanced NixOS user who can solve their own problems, package their own software and understand how it all works fundamentally. Road to Nix builds the knowledge from the grounds up, meaning it will take a while to get to the fun topics, but once you get to them, you will actually understand them. It's a guide I recommend to anyone who wants to get into NixOS or feels like they don't currently understand how NixOS works.",
+    "posts": [1742487785, 1742487800],
+    "todo": [
+      "3. Road to Nix - nixpkgs' library",
+      "4. Road to Nix - The module system: Introduction",
+      "5. Road to Nix - Derivations",
+      "6. Road to Nix - The module system: Mini-NixOS from scratch",
+      "7. Road to Nix - Configuring NixOS",
+      "8. Road to Nix - Flakes and nix-command",
+      "9. Road to Nix - Home Manager",
+      "10. Road to Nix - Packaging, stdenv and overlays",
+      "11. Road to Nix - The module system: Type merging, extendModules and more",
+      "12. Road to Nix - Specialisations, Virtual Machines",
+      "13. Road to Nix - Using Nix manuals and solving your own problems"
+    ]
+  }
+]

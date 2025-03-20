@@ -1,0 +1,5 @@
+{
+  "title": "2. Road to Nix - Nix's laziness",
+  "date": 1742487800,
+  "description": "In this chapter of Road to Nix you will learn about how Nix uses lazy evaluation to make incredible things possible. You will also develop a mental model for understanding how Nix evaluation happens."
+}
