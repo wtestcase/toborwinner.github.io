@@ -404,7 +404,7 @@ error:
 - Nix allows recursion: Values can refer to themselves in their definition.
 - Nix allows repetition: Values can contain themselves.
 
-Nix lazy evaluation and recursion is at the very core of how nixpkgs and NixOS
+Nix's lazy evaluation and recursion is at the very core of how nixpkgs and NixOS
 work! We'll see this in future chapters. In the next chapter, you're going to
 learn about [nixpkgs](https://github.com/NixOS/nixpkgs){target="\_blank"} and
 its library.
